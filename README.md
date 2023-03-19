@@ -37,11 +37,13 @@ https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 7. A new Visual Studio window will appear, expand the `JAVA PROJECTS` section
 ![image](https://user-images.githubusercontent.com/39243722/226171748-c3fceaaf-eccc-458a-bf73-6465abebdfc7.png)
 
-- 1st: Find your project app
-- 2nd: Expand the `JAVA PROJECTS`
-- 3rd: Click on the plus button from the `Reference Libraries`:
+---
+
+1. Find your project app
+2. Expand the `JAVA PROJECTS`
+3. Click on the plus button from the `Reference Libraries`:
 ![image](https://user-images.githubusercontent.com/39243722/226171869-70f089d2-63f2-4b11-91b7-a0de78bb807d.png)
-- 4rth: Select the lib subdirectory from the `JavaFX zip` file you downloaded > select all libs, and then hit select:
+4. Select the lib subdirectory from the `JavaFX zip` file you downloaded > select all libs, and then hit select:
 ![Code_0DkdFUqDOX](https://user-images.githubusercontent.com/39243722/226172281-be298fc5-6b84-4d53-b4a7-916bcb8e0628.png)
 Then your Libraries will look like this:
 ![image](https://user-images.githubusercontent.com/39243722/226172307-dc77b020-b4e7-4de8-bdd4-f4e1f4b86957.png)
